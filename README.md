@@ -29,6 +29,9 @@ This repo contains list of beginner-friendly resources to delve deeper into vari
 * Saito and Shapiro, "Optimistic Replication" [[Link]](https://pages.lip6.fr/Marc.Shapiro/papers/Optimistic_Replication_Computing_Surveys_2005-03_cameraready.pdf)
 * Wiesmann et aI., "Understanding Replication in Databases and Distributed Systems" [[Link]](https://ieeexplore.ieee.org/document/840959)
 
+#### Availability and Latency
+* Cure: Strong semantics meets high availability and low latency [[Link]](https://hal.inria.fr/hal-01270776v2/document)
+
 #### Fault Tolerance
 * Cristian and Fetzer, The Timed Asynchronous Distributed System Model [[Link]](https://dl.acm.org/citation.cfm?id=308003)
 * Guerraoui and Schiper, "Software-Based Replication for Fault Tolerance" [[Link]](http://csis.pace.edu/~marchese/CS865/Papers/guerraoui_r4068.pdf)
