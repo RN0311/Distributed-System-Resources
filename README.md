@@ -1,5 +1,5 @@
 # Distributed-System-Resources
-This repo contains list of beginner-friendly resources to understand delve deeper into distributed systems concepts.
+This repo contains list of beginner-friendly resources to delve deeper into various distributed systems concepts.
 
 #### Introduction
 * Scale in distributed systems [[Link]](http://clifford.neuman.name/papers/pdf/94--_scale-dist-sys-neuman-readings-dcs.pdf)
